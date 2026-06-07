@@ -64,6 +64,30 @@ Como o projeto quase concluído, e muitos teste realizados, acabei por concluir 
 
 5,2 Um glossário com os principais conceitos aprendidos
 
+Alucinação: Fenômeno comum em Modelos de Linguagem de IA (LLMs) onde a ferramenta gera informações falsas, incorretas ou inventadas com total aparência de convicção. O controle de alucinações é feito por meio de engenharia de prompts refinada.
+
+Curadoria de Fontes: O processo crítico de selecionar, filtrar e validar materiais de alta qualidade (como lives, vídeos técnicos e guias) para alimentar a base de dados de uma IA, garantindo que as respostas geradas sejam baseadas em informações verídicas e profundas.
+
+Dado vs. Informação: O Dado representa o registro bruto e disperso (como horas de transmissões ao vivo gravadas); a Informação é o resultado do processamento, estruturação e síntese desses dados por ferramentas como o NotebookLM, tornando-os compreensíveis e úteis para a tomada de decisões.
+
+Engenharia de Prompts: A prática de projetar, estruturar e refinar os comandos de texto inseridos em uma inteligência artificial para que ela assuma uma persona específica (como um pro player líder de equipe) e entregue resultados precisos, técnicos e contextuais.
+
+Prompt Reutilizável: Um modelo de instrução genérico e otimizado que pode ser aplicado repetidas vezes para diferentes cenários ou variáveis (como alterar apenas o nome do mapa) mantendo a consistência e a qualidade da resposta gerada pela IA.
+
+Aprendizado Ativo (Active Learning): Metodologia educacional onde o estudante deixa de ser apenas um receptor passivo de conteúdo e passa a interagir diretamente com a informação — no seu caso, utilizando a IA para questionar, testar cenários, criar estratégias e estruturar o próprio conhecimento.
+
+Base de Conhecimento (Knowledge Base): O conjunto centralizado de documentos, links, PDFs e vídeos que você selecionou na sua Curadoria de Fontes e inseriu no NotebookLM para servir como a única base de fatos confiável para a IA consultar.
+
+Context Window (Janela de Contexto): O limite de volume de dados que um modelo de IA consegue processar e "lembrar" de uma só vez durante uma interação. O NotebookLM destaca-se no mercado justamente por ter uma janela de contexto massiva, permitindo ler livros inteiros ou horas de transcrições de vídeos.
+
+LLM (Large Language Model / Grande Modelo de Linguagem): O tipo de algoritmo de inteligência artificial generativa que alimenta ferramentas como o Gemini e o NotebookLM, treinado com bilhões de textos para entender e gerar linguagem humana de forma fluida.
+
+RAG (Retrieval-Augmented Generation / Geração Aumentada de Recuperação): A arquitetura técnica por trás do NotebookLM. Em vez de a IA responder usando apenas o conhecimento geral da internet, ela primeiro "recupera" as informações estritamente dentro dos documentos que você enviou (suas fontes sobre WOT Blitz) e depois "gera" a resposta com base neles, reduzindo drasticamente as alucinações.
+
+Troubleshooting (Resolução de Problemas): O processo de identificar, diagnosticar e corrigir falhas ou respostas insatisfatórias da IA. No seu projeto, isso foi aplicado ao ajustar e refinar os comandos (Engenharia de Prompts) até encontrar o formato ideal que não gerasse respostas erradas.
+
+Zero-Shot / Few-Shot Prompting: Técnicas de engenharia de prompt. Zero-shot ocorre quando você pede algo diretamente à IA sem dar exemplos prévios. Few-shot (aplicada indiretamente no seu projeto) ocorre quando você fornece exemplos de estratégias passadas ou regras do jogo para guiar a IA a entregar um resultado muito mais técnico.
+
 5,3. Prompt reutilizável que pode apoiar futuras revisões sobre o tema.
 
 🔮 PROMPTS
