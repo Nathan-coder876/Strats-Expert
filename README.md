@@ -14,11 +14,11 @@ Para um Repositório bem sucedido (nota 10), analisei os critérios e dividi ele
 
 -5. Miniguia de Estudo (Entrega Final):
 
--5,1. Resumos estruturados do assunto;
+-5.1. Resumos estruturados do assunto;
 
--5,2. Um glossário com os principais conceitos aprendidos;
+-5.2. Um glossário com os principais conceitos aprendidos;
 
--5,3. Um prompt reutilizável que pode apoiar futuras revisões sobre o tema.
+-5.3. Um prompt reutilizável que pode apoiar futuras revisões sobre o tema.
 
 ---
 
