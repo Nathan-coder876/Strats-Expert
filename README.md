@@ -1,4 +1,4 @@
-This project is a open source about WOT blitz Strats.
+Blitz Expert
 
 Link de acesso para o NotebookLM: https://notebooklm.google.com/notebook/450636e2-7e8d-437d-a326-f0b45c892aa5?utm_source=gemini_notebook&utm_medium=referral
 
@@ -20,19 +20,23 @@ Para um Repositório bem sucedido (nota 10), analisei os critérios e dividi ele
 
 -5,3. Um prompt reutilizável que pode apoiar futuras revisões sobre o tema.
 
-Contexto: Assistindo as aulas do curso sobre NotebookLM, percebi que é uma ferramenta muito útil para informações e aprendizado. Portanto, decidi testar a ferramenta com algo comum, mas que exige muito esforço no quesito busca de informação.
+---
+
+**1. Contexto:** Assistindo as aulas do curso sobre NotebookLM, percebi que é uma ferramenta muito útil para informações e aprendizado. Portanto, decidi testar a ferramenta com algo comum, mas que exige muito esforço no quesito busca de informação.
 
 O tema foi: ´´Stratégias Competitivas para World of Tanks Blitz``, Um jogo de estratégia e ação sobre tanques de guerra, que exige muito empenho. O jogo pode ser dividido em duas partes: batalhas regulares (pubs) e batalhas de torneio, sendo as batalhas de torneio o nosso foco aqui. Como o jogo é bem complexo, podendo ter diferentes estratégias e uso de mecanicas, fiquei curioso para saber qual seria o desempenho de uma Inteligencia Artificial elaborando esssas estratégias, com uma visão mais técnica e calculada, já que é uma IA.
 
-Objetivo: O nosso objetivo aqui é saber se em quesito extremo de raciocinio lógico, a IA vai ter um desempenho igual ou maior que um líder de um time de verdade. Não apenas na área de criação de estratégias e dominio de mecânicas, mas também em momentos críticos, como decisões no meio da batalha.
+---
+
+**2.Objetivo:** O nosso objetivo aqui é saber se em quesito extremo de raciocinio lógico, a IA vai ter um desempenho igual ou maior que um líder de um time de verdade. Não apenas na área de criação de estratégias e dominio de mecânicas, mas também em momentos críticos, como decisões no meio da batalha.
 
 Ao submergir nesse universo, etramos em um quesito que embora não esteja no cotidiano de muitas pessoas, vai muito além de algo que exige profisionalismo. Já que são torneios competitivos, os jogadores são forçados a terem atitudes profisionais, e dominarem as mecanicas e conhecimento sobre o jogo. Algo que não vemos em algumas empresas por exemplo, onde o funcionário trabalha apenas pelo dinheiro e perde grande parte do seu profisionalismo.
 
-Curadoria de Fontes: Aqui estão três links de fontes usadas no NotebookLM:
+---
+
+**3.Curadoria de Fontes:** Aqui estão três links de fontes usadas no NotebookLM:
 
 https://www.youtube.com/watch?v=_3jEnONZG2s
-
-
 
 https://www.youtube.com/watch?v=nPW0xtPEWSY
 
@@ -40,7 +44,9 @@ https://www.youtube.com/watch?v=v5Wy99iYA2Q
 
 Em maior parte, o NotebookLM foi alimentado com videos e lives sobre o jogo, já que são a maior fonte de conhecimento do cenário competitivo do jogo.
 
-Engenharia de Prompts Ao colocar a Engenharia de Prompt na prática, usei um mapa do jogo como exemplo, o ´´Dinastia da Pérola``. Pedi para a IA pensar como o lider de um time e criar uma estratégia para o mapa, analisando as diferentes possibilidades de decisões no meio da batalha. Segue aqui o Promt do comando:
+---
+
+**4.Engenharia de Prompts:** Ao colocar a Engenharia de Prompt na prática, usei um mapa do jogo como exemplo, o ´´Dinastia da Pérola``. Pedi para a IA pensar como o lider de um time e criar uma estratégia para o mapa, analisando as diferentes possibilidades de decisões no meio da batalha. Segue aqui o Promt do comando:
 
 🔮 PROMPT
 
@@ -56,13 +62,15 @@ Decisões de Meio de Batalha: Para garantir a vitória, as decisões técnicas s
 
 LineUp e Rotas (O Plano de Jogo): LineUp Pro (7 Tanques): 4x Kranvagn: Versatilidade total, controle de colinas e finalização de clips . 2x 116-F3: Para liderar o empurrão na cidade com blindagem frontal superior . 1x Mouse ou VK 90.01 (P): O "âncora". Este tanque serve como escudo de carne (meat shield) na Base B, absorvendo o dano inicial . Plano de Lado e Rota: Lado: Cidade (Town/Urbano). Estatisticamente, o controle das estruturas urbanas no Dinastia da Pérola oferece mais cobertura contra clips devastadores do que as colinas abertas . Movimento: O Mouse/VK 90 assume a Base B. Os 116-F3 protegem os flancos imediatos na cidade. Os 4 Kranvagns tomam posições de suporte nas bordas da cidade voltadas para as colinas, criando o fogo cruzado necessário para aniquilar qualquer tanque médio ou pesado que tente flanquear pelas dunas . Conclusão do Líder: "Mantenham a disciplina, chamem os alvos, e lembrem-se: um canhão com 1 HP atira tão forte quanto um de 2500 HP. Não morram de graça"!
 
-Miniguia de Estudo (Entrega Final): Estes é apenas um exemplo dos prompts usados. Como os prompts e as respostas ficaram muito extensos, optei por apresentar apenas um. Após uma serie de estudos e analises, concluí um prompt padrão e simples, ao qual a IA responde de maneira mais plausivel e sem ´´alucinações``. Logo mais, está um prompt reutilizável que pode apoiar futuras revisões sobre o tema. Com ele é possivel monta diferentes estratégias, basta trocar o nome do mapa em questão para o mapa que o usuario deseijar.
+---
 
-5,1. Resumo estruturado do assunto
+**5.Miniguia de Estudo (Entrega Final):** Estes é apenas um exemplo dos prompts usados. Como os prompts e as respostas ficaram muito extensos, optei por apresentar apenas um. Após uma serie de estudos e analises, concluí um prompt padrão e simples, ao qual a IA responde de maneira mais plausivel e sem ´´alucinações``. Logo mais, está um prompt reutilizável que pode apoiar futuras revisões sobre o tema. Com ele é possivel monta diferentes estratégias, basta trocar o nome do mapa em questão para o mapa que o usuario deseijar.
+
+**5.1. Resumo estruturado do assunto**
 
 Como o projeto quase concluído, e muitos teste realizados, acabei por concluir que embora seja uma boa ferramenta para aprendizado, o NotebookLM não me ensinou muito mais sobre o que eu já conhecia a respeito do jogo. talvez por já ter uma experiencia mais avançada com esse competitivo, não maravilhei-me o suficiente com a capacidade da ferramenta. Faltou testa-la com alguém que seja leigo sobre o assunto. Contudo, nota-se que é algo incrivel e muito útil para aprendizado, pois reúne conhecimento diverso e rico sobre determinado assunto, e ao mesmo tempo, pode tranforma-lo e facilitar o acesso a ele. Um exemplo disso é a opção de fazer um video sobre o assunto, o qual reúne os Dados de todas as fontes, e tranforma-os em Informação útil e resumida, economizando tempo e gerando conhecimento avançado.
 
-5,2 Um glossário com os principais conceitos aprendidos
+**5.2 Um glossário com os principais conceitos aprendidos**
 
 Alucinação: Fenômeno comum em Modelos de Linguagem de IA (LLMs) onde a ferramenta gera informações falsas, incorretas ou inventadas com total aparência de convicção. O controle de alucinações é feito por meio de engenharia de prompts refinada.
 
@@ -88,7 +96,7 @@ Troubleshooting (Resolução de Problemas): O processo de identificar, diagnosti
 
 Zero-Shot / Few-Shot Prompting: Técnicas de engenharia de prompt. Zero-shot ocorre quando você pede algo diretamente à IA sem dar exemplos prévios. Few-shot (aplicada indiretamente no seu projeto) ocorre quando você fornece exemplos de estratégias passadas ou regras do jogo para guiar a IA a entregar um resultado muito mais técnico.
 
-5,3. Prompt reutilizável que pode apoiar futuras revisões sobre o tema.
+**5.3. Prompt reutilizável que pode apoiar futuras revisões sobre o tema.**
 
 🔮 PROMPTS
 
