@@ -78,7 +78,7 @@ LineUp e Rotas (O Plano de Jogo): LineUp Pro (7 Tanques): 4x Kranvagn: Versatili
 
 ---
 
-**5.Miniguia de Estudo (Entrega Final):** Estes é apenas um exemplo dos prompts usados. Como os prompts e as respostas ficaram muito extensos, optei por apresentar apenas um. Após uma serie de estudos e analises, concluí um prompt padrão e simples, ao qual a IA responde de maneira mais plausivel e sem ´´alucinações``. Logo mais, está um **prompt reutilizável que pode apoiar futuras revisões sobre o tema.** Com ele é possivel montar diferentes estratégias, basta trocar o nome do mapa em questão para o mapa que o usuario deseijar.
+**5.Miniguia de Estudo (Entrega Final):** Estes é apenas um exemplo dos prompts usados. Como os prompts e as respostas ficaram muito extensos, optei por apresentar apenas um. Após uma série de estudos e analises, concluí um prompt padrão e simples, ao qual a IA responde de maneira mais plausivel e sem ´´alucinações``. Logo mais, está um **prompt reutilizável que pode apoiar futuras revisões sobre o tema.** Com ele é possivel montar diferentes estratégias, basta trocar o nome do mapa em questão para o mapa que o usuario deseijar.
 
 **5.1. Resumo estruturado do assunto**
 
