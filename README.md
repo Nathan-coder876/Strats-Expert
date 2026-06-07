@@ -33,7 +33,7 @@ O tema foi: ´´Stratégias Competitivas para World of Tanks Blitz``, Um jogo de
 
 **2.Objetivo:** O nosso objetivo aqui é saber se em quesito extremo de raciocinio lógico, a IA vai ter um desempenho igual ou maior que um líder de um time de verdade. Não apenas na área de criação de estratégias e dominio de mecânicas, mas também em momentos críticos, como decisões no meio da batalha.
 
-Ao submergir nesse universo, etramos em um quesito que embora não esteja no cotidiano de muitas pessoas, vai muito além de algo que exige profisionalismo. Já que são torneios competitivos, os jogadores são forçados a terem atitudes profisionais, e dominarem as mecanicas e conhecimento sobre o jogo. Algo que não vemos em algumas empresas por exemplo, onde o funcionário trabalha apenas pelo dinheiro e perde grande parte do seu profisionalismo.
+Ao submergir nesse universo, entramos em um quesito que embora não esteja no cotidiano de muitas pessoas, vai muito além de algo que exige profisionalismo. Já que são torneios competitivos, os jogadores são forçados a terem atitudes profisionais, e dominarem as mecanicas e conhecimento sobre o jogo. Algo que não vemos em algumas empresas por exemplo, onde o funcionário trabalha apenas pelo dinheiro e perde grande parte do seu profisionalismo.
 
 ---
 
