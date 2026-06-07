@@ -47,11 +47,19 @@ Em maior parte, o NotebookLM foi alimentado com videos e lives sobre o jogo, já
 ---
 
 **4.Engenharia de Prompts:** Ao colocar a Engenharia de Prompt na prática, usei um mapa do jogo como exemplo, o ´´Dinastia da Pérola``. Pedi para a IA pensar como o lider de um time e criar uma estratégia para o mapa, analisando as diferentes possibilidades de decisões no meio da batalha. Segue aqui o Promt do comando:
-
+<table>
+  <tr>
+    <td>
 🔮 PROMPT
 
 Analisando mais teoricamente e tecnicamente todas as possíveis estratégias. Pense como uma pro player que que irá criar um Strat para o mapa Dinastia da Pérola. Análise os melhores Strats iniciais, e as possíveis decisões a serem tomadas no meio da batalhas para garantir a vitória. Leve em consideração o Meta tank (o tanque mais usado) recentemente. Calcule também as estratégias passadas que mais venceram batalhas nos dois Spawns (lados do mapa) para influenciar o seu resultado final. Pense como o líder de um time que irá jogar nesse mapa, e gere uma LineUp (tanques a serem usados) e o lados do mapa que irão.
+</td>
+  </tr>
+</table>
 
+<table>
+  <tr>
+    <td>
 ✨ RESPOSTA
 
 .Como líder de equipe e pro player, analiso o mapa Dinastia da Pérola como um campo de batalha puramente de tanques pesados, onde a vitória é decidida pelo controle de corredores urbanos e pela capacidade de punir erros de posicionamento com rajadas de dano (clips) . Abaixo, apresento a análise teórica e técnica para uma estratégia vencedora: 1. **Análise do Meta e do "Tanque Rei"** Atualmente, o Kranvagn domina o cenário competitivo . No Dinastia da Pérola, ele é essencial porque funciona como um tanque de tiro único para DPM sustentado, mas possui o potencial de "clip" de 1.230 de dano para finalizar inimigos . Além disso, sua torre é quase invencível em posições de hull-down nas colinas do mapa . O 116-F3 e o Feliche também são escolhas de elite devido à sua blindagem frontal sólida, ideal para as lutas de proximidade na cidade .Análise de Spawns e Estratégias Passadas: Historicamente, as batalhas neste mapa seguem dois padrões principais: A Armadilha nas Colinas (The Hill Trap): Times que utilizam o lado das colinas (geralmente perto da base A ou C) tendem a vencer quando conseguem atrair o inimigo para corredores abertos, onde podem aplicar o conceito de "Triângulos Mortais", criando ângulos de fogo cruzado onde o oponente não consegue se esconder . O "Shove" Urbano (Town Push): No Spawn Norte, é comum ver equipes empurrando agressivamente através da cidade para obter um abate rápido em tanques isolados, o que chamamos de ganhar no Tempo (alcançar a condição de vitória mais rápido que o oponente) .
@@ -61,6 +69,9 @@ Estratégia Inicial: "O Cerco Coordenado": Como líder, minha estratégia inicia
 Decisões de Meio de Batalha: Para garantir a vitória, as decisões técnicas são: Foco de Fogo (Focus Fire): O capitão deve chamar o alvo mais exposto. Dois ou três clippers descarregando simultaneamente em um único alvo reduzem o time inimigo de 7v7 para 6v7 em segundos . Compartilhamento de HP (HP Sharing): Tanques com HP cheio devem avançar para "comer" tiros enquanto os tanques com 1 HP (que ainda têm canhões ativos) recuam para a segunda ou terceira linha para continuar farmando dano . Gestão de Clip: Pro players nunca devem fazer "dry firing" (atirar projéteis assim que carregam individualmente sem o tambor cheio), a menos que seja para confirmar um abate . Revelar que você está sem clip dá "luz verde" para o inimigo te atropelar .
 
 LineUp e Rotas (O Plano de Jogo): LineUp Pro (7 Tanques): 4x Kranvagn: Versatilidade total, controle de colinas e finalização de clips . 2x 116-F3: Para liderar o empurrão na cidade com blindagem frontal superior . 1x Mouse ou VK 90.01 (P): O "âncora". Este tanque serve como escudo de carne (meat shield) na Base B, absorvendo o dano inicial . Plano de Lado e Rota: Lado: Cidade (Town/Urbano). Estatisticamente, o controle das estruturas urbanas no Dinastia da Pérola oferece mais cobertura contra clips devastadores do que as colinas abertas . Movimento: O Mouse/VK 90 assume a Base B. Os 116-F3 protegem os flancos imediatos na cidade. Os 4 Kranvagns tomam posições de suporte nas bordas da cidade voltadas para as colinas, criando o fogo cruzado necessário para aniquilar qualquer tanque médio ou pesado que tente flanquear pelas dunas . Conclusão do Líder: "Mantenham a disciplina, chamem os alvos, e lembrem-se: um canhão com 1 HP atira tão forte quanto um de 2500 HP. Não morram de graça"!
+</td>
+  </tr>
+</table>
 
 ---
 
@@ -72,32 +83,37 @@ Como o projeto quase concluído, e muitos teste realizados, acabei por concluir 
 
 **5.2 Um glossário com os principais conceitos aprendidos**
 
-Alucinação: Fenômeno comum em Modelos de Linguagem de IA (LLMs) onde a ferramenta gera informações falsas, incorretas ou inventadas com total aparência de convicção. O controle de alucinações é feito por meio de engenharia de prompts refinada.
+**-Alucinação:** Fenômeno comum em Modelos de Linguagem de IA (LLMs) onde a ferramenta gera informações falsas, incorretas ou inventadas com total aparência de convicção. O controle de alucinações é feito por meio de engenharia de prompts refinada.
 
-Curadoria de Fontes: O processo crítico de selecionar, filtrar e validar materiais de alta qualidade (como lives, vídeos técnicos e guias) para alimentar a base de dados de uma IA, garantindo que as respostas geradas sejam baseadas em informações verídicas e profundas.
+**-Curadoria de Fontes:** O processo crítico de selecionar, filtrar e validar materiais de alta qualidade (como lives, vídeos técnicos e guias) para alimentar a base de dados de uma IA, garantindo que as respostas geradas sejam baseadas em informações verídicas e profundas.
 
-Dado vs. Informação: O Dado representa o registro bruto e disperso (como horas de transmissões ao vivo gravadas); a Informação é o resultado do processamento, estruturação e síntese desses dados por ferramentas como o NotebookLM, tornando-os compreensíveis e úteis para a tomada de decisões.
+**-Dado vs. Informação:** O Dado representa o registro bruto e disperso (como horas de transmissões ao vivo gravadas); a Informação é o resultado do processamento, estruturação e síntese desses dados por ferramentas como o NotebookLM, tornando-os compreensíveis e úteis para a tomada de decisões.
 
-Engenharia de Prompts: A prática de projetar, estruturar e refinar os comandos de texto inseridos em uma inteligência artificial para que ela assuma uma persona específica (como um pro player líder de equipe) e entregue resultados precisos, técnicos e contextuais.
+**-Engenharia de Prompts:** A prática de projetar, estruturar e refinar os comandos de texto inseridos em uma inteligência artificial para que ela assuma uma persona específica (como um pro player líder de equipe) e entregue resultados precisos, técnicos e contextuais.
 
-Prompt Reutilizável: Um modelo de instrução genérico e otimizado que pode ser aplicado repetidas vezes para diferentes cenários ou variáveis (como alterar apenas o nome do mapa) mantendo a consistência e a qualidade da resposta gerada pela IA.
+**-Prompt Reutilizável:** Um modelo de instrução genérico e otimizado que pode ser aplicado repetidas vezes para diferentes cenários ou variáveis (como alterar apenas o nome do mapa) mantendo a consistência e a qualidade da resposta gerada pela IA.
 
-Aprendizado Ativo (Active Learning): Metodologia educacional onde o estudante deixa de ser apenas um receptor passivo de conteúdo e passa a interagir diretamente com a informação — no seu caso, utilizando a IA para questionar, testar cenários, criar estratégias e estruturar o próprio conhecimento.
+**-Aprendizado Ativo (Active Learning):** Metodologia educacional onde o estudante deixa de ser apenas um receptor passivo de conteúdo e passa a interagir diretamente com a informação — no seu caso, utilizando a IA para questionar, testar cenários, criar estratégias e estruturar o próprio conhecimento.
 
-Base de Conhecimento (Knowledge Base): O conjunto centralizado de documentos, links, PDFs e vídeos que você selecionou na sua Curadoria de Fontes e inseriu no NotebookLM para servir como a única base de fatos confiável para a IA consultar.
+**-Base de Conhecimento (Knowledge Base):** O conjunto centralizado de documentos, links, PDFs e vídeos que você selecionou na sua Curadoria de Fontes e inseriu no NotebookLM para servir como a única base de fatos confiável para a IA consultar.
 
-Context Window (Janela de Contexto): O limite de volume de dados que um modelo de IA consegue processar e "lembrar" de uma só vez durante uma interação. O NotebookLM destaca-se no mercado justamente por ter uma janela de contexto massiva, permitindo ler livros inteiros ou horas de transcrições de vídeos.
+**-Context Window (Janela de Contexto):** O limite de volume de dados que um modelo de IA consegue processar e "lembrar" de uma só vez durante uma interação. O NotebookLM destaca-se no mercado justamente por ter uma janela de contexto massiva, permitindo ler livros inteiros ou horas de transcrições de vídeos.
 
-LLM (Large Language Model / Grande Modelo de Linguagem): O tipo de algoritmo de inteligência artificial generativa que alimenta ferramentas como o Gemini e o NotebookLM, treinado com bilhões de textos para entender e gerar linguagem humana de forma fluida.
+**-LLM (Large Language Model / Grande Modelo de Linguagem):** O tipo de algoritmo de inteligência artificial generativa que alimenta ferramentas como o Gemini e o NotebookLM, treinado com bilhões de textos para entender e gerar linguagem humana de forma fluida.
 
-RAG (Retrieval-Augmented Generation / Geração Aumentada de Recuperação): A arquitetura técnica por trás do NotebookLM. Em vez de a IA responder usando apenas o conhecimento geral da internet, ela primeiro "recupera" as informações estritamente dentro dos documentos que você enviou (suas fontes sobre WOT Blitz) e depois "gera" a resposta com base neles, reduzindo drasticamente as alucinações.
+**-RAG (Retrieval-Augmented Generation / Geração Aumentada de Recuperação):** A arquitetura técnica por trás do NotebookLM. Em vez de a IA responder usando apenas o conhecimento geral da internet, ela primeiro "recupera" as informações estritamente dentro dos documentos que você enviou (suas fontes sobre WOT Blitz) e depois "gera" a resposta com base neles, reduzindo drasticamente as alucinações.
 
-Troubleshooting (Resolução de Problemas): O processo de identificar, diagnosticar e corrigir falhas ou respostas insatisfatórias da IA. No seu projeto, isso foi aplicado ao ajustar e refinar os comandos (Engenharia de Prompts) até encontrar o formato ideal que não gerasse respostas erradas.
+**-Troubleshooting (Resolução de Problemas):** O processo de identificar, diagnosticar e corrigir falhas ou respostas insatisfatórias da IA. No seu projeto, isso foi aplicado ao ajustar e refinar os comandos (Engenharia de Prompts) até encontrar o formato ideal que não gerasse respostas erradas.
 
-Zero-Shot / Few-Shot Prompting: Técnicas de engenharia de prompt. Zero-shot ocorre quando você pede algo diretamente à IA sem dar exemplos prévios. Few-shot (aplicada indiretamente no seu projeto) ocorre quando você fornece exemplos de estratégias passadas ou regras do jogo para guiar a IA a entregar um resultado muito mais técnico.
+**-Zero-Shot / Few-Shot Prompting:** Técnicas de engenharia de prompt. Zero-shot ocorre quando você pede algo diretamente à IA sem dar exemplos prévios. Few-shot (aplicada indiretamente no seu projeto) ocorre quando você fornece exemplos de estratégias passadas ou regras do jogo para guiar a IA a entregar um resultado muito mais técnico.
 
 **5.3. Prompt reutilizável que pode apoiar futuras revisões sobre o tema.**
-
+<table>
+  <tr>
+    <td>
 🔮 PROMPTS
 
 Analisando diferente estratégias, usadas por diferentes times no mapa Rockfiled, construa uma estratégia para este mapa. Monte uma LineUp com todos os tanques possíveis e mais plausíveis de acordo com o Meta. E calculando as porcentagens de vitória de acordo com cada estratégia, decida o melhor lado para jogar.
+</td>
+  </tr>
+</table>
