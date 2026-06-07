@@ -27,13 +27,13 @@ Para um Repositório bem sucedido (nota 10), analisei os critérios e dividi ele
 
 **1. Contexto:** Assistindo às aulas do curso sobre NotebookLM, percebi que é uma ferramenta muito útil para informações e aprendizado. Portanto, decidi testar a ferramenta com algo comum, mas que exige muito esforço no quesito busca de informação.
 
-O tema foi: "Estratégias Competitivas para World of Tanks Blitz", Um jogo de estratégia e ação sobre tanques de guerra, que exige muito empenho. O jogo pode ser dividido em duas partes: batalhas regulares (pubs) e batalhas de torneio, sendo as batalhas de torneio o nosso foco aqui. Como o jogo é bem complexo, podendo ter diferentes estratégias e uso de mecânicas, fiquei curioso para saber qual seria o desempenho de uma Inteligencia Artificial elaborando essas estratégias, com uma visão mais técnica e calculada, já que é uma IA.
+O tema foi: "Estratégias Competitivas para World of Tanks Blitz", Um jogo de estratégia e ação sobre tanques de guerra, que exige muito empenho. O jogo pode ser dividido em duas partes: batalhas regulares (pubs) e batalhas de torneio, sendo as batalhas de torneio o nosso foco aqui. Como o jogo é bem complexo, podendo ter diferentes estratégias e uso de mecânicas, fiquei curioso para saber qual seria o desempenho de uma Inteligência Artificial elaborando essas estratégias, com uma visão mais técnica e calculada, já que é uma IA.
 
 ---
 
-**2.Objetivo:** O nosso objetivo aqui é saber se em quesito extremo de raciocinio lógico, a IA vai ter um desempenho igual ou maior que um líder de um time de verdade. Não apenas na área de criação de estratégias e dominio de mecânicas, mas também em momentos críticos, como decisões no meio da batalha.
+**2.Objetivo:** O nosso objetivo aqui é saber se em quesito extremo de raciocínio lógico, a IA vai ter um desempenho igual ou maior que um líder de um time de verdade. Não apenas na área de criação de estratégias e domínio de mecânicas, mas também em momentos críticos, como decisões no meio da batalha.
 
-Ao submergir nesse universo, entramos em um quesito que embora não esteja no cotidiano de muitas pessoas, vai muito além de algo que exige profisionalismo. Já que são torneios competitivos, os jogadores são forçados a terem atitudes profissionais, e dominarem as mecanicas e conhecimento sobre o jogo. Algo que não vemos em algumas empresas por exemplo, onde o funcionário trabalha apenas pelo dinheiro e perde grande parte do seu profissionalismo.
+Ao submergir nesse universo, entramos em um quesito que embora não esteja no cotidiano de muitas pessoas, vai muito além de algo que exige profissionalismo. Já que são torneios competitivos, os jogadores são forçados a terem atitudes profissionais, e dominarem as mecânicas e conhecimento sobre o jogo. Algo que não vemos em algumas empresas por exemplo, onde o funcionário trabalha apenas pelo dinheiro e perde grande parte do seu profissionalismo.
 
 ---
 
@@ -45,17 +45,17 @@ https://www.youtube.com/watch?v=nPW0xtPEWSY
 
 https://www.youtube.com/watch?v=v5Wy99iYA2Q
 
-Em maior parte, o NotebookLM foi alimentado com videos e lives sobre o jogo, já que são a maior fonte de conhecimento do cenário competitivo do jogo.
+Em maior parte, o NotebookLM foi alimentado com vídeos e lives sobre o jogo, já que são a maior fonte de conhecimento do cenário competitivo do jogo.
 
 ---
 
-**4.Engenharia de Prompts:** Ao colocar a Engenharia de Prompt na prática, usei um mapa do jogo como exemplo, o "Dinastia da Pérola". Pedi para a IA pensar como o lider de um time e criar uma estratégia para o mapa, analisando as diferentes possibilidades de decisões no meio da batalha. Segue aqui o Promt do comando:
+**4.Engenharia de Prompts:** Ao colocar a Engenharia de Prompt na prática, usei um mapa do jogo como exemplo, o "Dinastia da Pérola". Pedi para a IA pensar como o líder de um time e criar uma estratégia para o mapa, analisando as diferentes possibilidades de decisões no meio da batalha. Segue aqui o Prompt do comando:
 <table>
   <tr>
     <td>
 🔮 PROMPT
 
-Analisando mais teoricamente e tecnicamente todas as possíveis estratégias. Pense como uma pro player que que irá criar um Strat para o mapa Dinastia da Pérola. Análise os melhores Strats iniciais, e as possíveis decisões a serem tomadas no meio da batalhas para garantir a vitória. Leve em consideração o Meta tank (o tanque mais usado) recentemente. Calcule também as estratégias passadas que mais venceram batalhas nos dois Spawns (lados do mapa) para influenciar o seu resultado final. Pense como o líder de um time que irá jogar nesse mapa, e gere uma LineUp (tanques a serem usados) e o lados do mapa que irão.
+Analisando mais teoricamente e tecnicamente todas as possíveis estratégias. Pense como uma pro player que que irá criar um Strat para o mapa Dinastia da Pérola. Análise os melhores Strats iniciais, e as possíveis decisões a serem tomadas no meio das batalhas para garantir a vitória. Leve em consideração o Meta tank (o tanque mais usado) recentemente. Calcule também as estratégias passadas que mais venceram batalhas nos dois Spawns (lados do mapa) para influenciar o seu resultado final. Pense como o líder de um time que irá jogar nesse mapa, e gere uma LineUp (tanques a serem usados) e o lados do mapa que irão.
 </td>
   </tr>
 </table>
@@ -78,13 +78,13 @@ LineUp e Rotas (O Plano de Jogo): LineUp Pro (7 Tanques): 4x Kranvagn: Versatili
 
 ---
 
-**5.Miniguia de Estudo (Entrega Final):** Este é apenas um exemplo dos prompts usados. Como os prompts e as respostas ficaram muito extensos, optei por apresentar apenas um. Após uma série de estudos e analises, concluí um prompt padrão e simples, ao qual a IA responde de maneira mais plausivel e sem ´´alucinações``. Logo mais, está um **prompt reutilizável que pode apoiar futuras revisões sobre o tema.** Com ele é possivel montar diferentes estratégias, basta trocar o nome do mapa em questão para o mapa que o usuario desejar.
+**5.Miniguia de Estudo (Entrega Final):** Este é apenas um exemplo dos prompts usados. Como os prompts e as respostas ficaram muito extensos, optei por apresentar apenas um. Após uma série de estudos e analises, concluí um prompt padrão e simples, ao qual a IA responde de maneira mais plausível e sem ´´alucinações``. Logo mais, está um **prompt reutilizável que pode apoiar futuras revisões sobre o tema.** Com ele é possível montar diferentes estratégias, basta trocar o nome do mapa em questão para o mapa que o usuário desejar.
 
 **5.1. Resumo estruturado do assunto**
 
-Com o projeto quase concluído, e muitos teste realizados, acabei por concluir que embora seja uma boa ferramenta para aprendizado, o NotebookLM não me ensinou muito mais sobre o que eu já conhecia a respeito do jogo. talvez por já ter uma experiencia mais avançada com esse competitivo, não me maravilhei o suficiente com a capacidade da ferramenta. Faltou testa-la com alguém que seja leigo sobre o assunto. Contudo, nota-se que é algo incrivel e muito útil para aprendizado, pois reúne conhecimento diverso e rico sobre determinado assunto, e ao mesmo tempo, pode tranforma-lo e facilitar o acesso a ele. Um exemplo disso é a opção de fazer um video sobre o assunto, o qual reúne os **Dados** de todas as fontes, e tranforma-os em **Informação útil e resumida**, economizando tempo e gerando conhecimento avançado.
+Com o projeto quase concluído, e muitos teste realizados, acabei por concluir que embora seja uma boa ferramenta para aprendizado, o NotebookLM não me ensinou muito mais sobre o que eu já conhecia a respeito do jogo. talvez por já ter uma experiencia mais avançada com esse competitivo, não me maravilhei o suficiente com a capacidade da ferramenta. Faltou testa-la com alguém que seja leigo sobre o assunto. Contudo, nota-se que é algo incrível e muito útil para aprendizado, pois reúne conhecimento diverso e rico sobre determinado assunto, e ao mesmo tempo, pode tranformá-lo e facilitar o acesso a ele. Um exemplo disso é a opção de fazer um vídeo sobre o assunto, o que reúne os **Dados** de todas as fontes, e transforma-os em **Informação útil e resumida**, economizando tempo e gerando conhecimento avançado.
 
-Em conclusão de meu objetivo, a ferramenta não superou um lider real de um time profisional, e na verdade nem ao menos chegou perto de fazer o papel real de um Pro Player. Dentre os motivos estão: falta de preparo e erros de informação. Embora eu tenha notado que alguns erros foram resultados de **falta de base de dados**, já que a ferramenta permite um limite de 50 fontes diferente. Essa causa deriva de dois fatores: A limitação da ferramenta (limite de 50 fontes), e o fato do jogo não possuir fontes de dados adequados sobre o assunto.  
+Em conclusão de meu objetivo, a ferramenta não superou um líder real de um time profissional, e na verdade nem ao menos chegou perto de fazer o papel real de um Pro Player. Dentre os motivos estão: falta de preparo e erros de informação. Embora eu tenha notado que alguns erros foram resultados de **falta de base de dados**, já que a ferramenta permite um limite de 50 fontes diferente. Essa causa deriva de dois fatores: A limitação da ferramenta (limite de 50 fontes), e o fato do jogo não possuir fontes de dados adequados sobre o assunto.  
 
 Em suma, é uma boa ferramenta, e acredito que ela cumpra muito bem com sua proposta. O ponto em questão, é que ela não teve o desempenho esperado quando levada a situações hipotéticas de extremidade. Concluo que a ferramenta não é adequada para essa função. Fornecendo informações erradas e possivelmente levando a derrota com estratégias fracas, como podemos notar no cenário do mapa de ´´Dinastia da Pérola``, o qual criou uma estratégia sem estrutura. 
 
