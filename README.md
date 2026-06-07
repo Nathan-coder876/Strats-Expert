@@ -100,7 +100,7 @@ Em suma, é uma boa ferramenta, e acredito que ela cumpra muito bem com sua prop
 
 **-Prompt Reutilizável:** Um modelo de instrução genérico e otimizado que pode ser aplicado repetidas vezes para diferentes cenários ou variáveis (como alterar apenas o nome do mapa) mantendo a consistência e a qualidade da resposta gerada pela IA.
 
-**-Aprendizado Ativo (Active Learning):** Metodologia educacional onde o estudante deixa de ser apenas um receptor passivo de conteúdo e passa a interagir diretamente com a informação — no seu caso, utilizando a IA para questionar, testar cenários, criar estratégias e estruturar o próprio conhecimento.
+**-Aprendizado Ativo (Active Learning):** Metodologia educacional onde o estudante deixa de ser apenas um receptor passivo de conteúdo e passa a interagir diretamente com a informação — no meu caso, utilizando a IA para questionar, testar cenários, criar estratégias e estruturar o próprio conhecimento.
 
 **-Base de Conhecimento (Knowledge Base):** O conjunto centralizado de documentos, links, PDFs e vídeos que você selecionou na sua Curadoria de Fontes e inseriu no NotebookLM para servir como a única base de fatos confiável para a IA consultar.
 
@@ -108,11 +108,11 @@ Em suma, é uma boa ferramenta, e acredito que ela cumpra muito bem com sua prop
 
 **-LLM (Large Language Model / Grande Modelo de Linguagem):** O tipo de algoritmo de inteligência artificial generativa que alimenta ferramentas como o Gemini e o NotebookLM, treinado com bilhões de textos para entender e gerar linguagem humana de forma fluida.
 
-**-RAG (Retrieval-Augmented Generation / Geração Aumentada de Recuperação):** A arquitetura técnica por trás do NotebookLM. Em vez de a IA responder usando apenas o conhecimento geral da internet, ela primeiro "recupera" as informações estritamente dentro dos documentos que você enviou (suas fontes sobre WOT Blitz) e depois "gera" a resposta com base neles, reduzindo drasticamente as alucinações.
+**-RAG (Retrieval-Augmented Generation / Geração Aumentada de Recuperação):** A arquitetura técnica por trás do NotebookLM. Em vez de a IA responder usando apenas o conhecimento geral da internet, ela primeiro "recupera" as informações estritamente dentro dos documentos que você enviou (minhas fontes sobre WOT Blitz) e depois "gera" a resposta com base neles, reduzindo drasticamente as alucinações.
 
-**-Troubleshooting (Resolução de Problemas):** O processo de identificar, diagnosticar e corrigir falhas ou respostas insatisfatórias da IA. No seu projeto, isso foi aplicado ao ajustar e refinar os comandos (Engenharia de Prompts) até encontrar o formato ideal que não gerasse respostas erradas.
+**-Troubleshooting (Resolução de Problemas):** O processo de identificar, diagnosticar e corrigir falhas ou respostas insatisfatórias da IA. No meu projeto, isso foi aplicado ao ajustar e refinar os comandos (Engenharia de Prompts) até encontrar o formato ideal que não gerasse respostas erradas.
 
-**-Zero-Shot / Few-Shot Prompting:** Técnicas de engenharia de prompt. Zero-shot ocorre quando você pede algo diretamente à IA sem dar exemplos prévios. Few-shot (aplicada indiretamente no seu projeto) ocorre quando você fornece exemplos de estratégias passadas ou regras do jogo para guiar a IA a entregar um resultado muito mais técnico.
+**-Zero-Shot / Few-Shot Prompting:** Técnicas de engenharia de prompt. Zero-shot ocorre quando você pede algo diretamente à IA sem dar exemplos prévios. Few-shot (aplicada indiretamente no meu projeto) ocorre quando você fornece exemplos de estratégias passadas ou regras do jogo para guiar a IA a entregar um resultado muito mais técnico.
 
 **5.3. Prompt reutilizável que pode apoiar futuras revisões sobre o tema.**
 <table>
