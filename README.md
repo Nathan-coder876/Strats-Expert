@@ -1,4 +1,7 @@
-Blitz Expert
+
+![Header](https://capsule-render.vercel.app/api?type=wave&color=auto&text=Blitz%20Expert&=twinkling)
+
+---
 
 Link de acesso para o NotebookLM: https://notebooklm.google.com/notebook/450636e2-7e8d-437d-a326-f0b45c892aa5?utm_source=gemini_notebook&utm_medium=referral
 
