@@ -27,7 +27,7 @@ Para um Repositório bem sucedido (nota 10), analisei os critérios e dividi ele
 
 **1. Contexto:** Assistindo às aulas do curso sobre NotebookLM, percebi que é uma ferramenta muito útil para informações e aprendizado. Portanto, decidi testar a ferramenta com algo comum, mas que exige muito esforço no quesito busca de informação.
 
-O tema foi: "Stratégias Competitivas para World of Tanks Blitz", Um jogo de estratégia e ação sobre tanques de guerra, que exige muito empenho. O jogo pode ser dividido em duas partes: batalhas regulares (pubs) e batalhas de torneio, sendo as batalhas de torneio o nosso foco aqui. Como o jogo é bem complexo, podendo ter diferentes estratégias e uso de mecanicas, fiquei curioso para saber qual seria o desempenho de uma Inteligencia Artificial elaborando esssas estratégias, com uma visão mais técnica e calculada, já que é uma IA.
+O tema foi: "Estratégias Competitivas para World of Tanks Blitz", Um jogo de estratégia e ação sobre tanques de guerra, que exige muito empenho. O jogo pode ser dividido em duas partes: batalhas regulares (pubs) e batalhas de torneio, sendo as batalhas de torneio o nosso foco aqui. Como o jogo é bem complexo, podendo ter diferentes estratégias e uso de mecânicas, fiquei curioso para saber qual seria o desempenho de uma Inteligencia Artificial elaborando essas estratégias, com uma visão mais técnica e calculada, já que é uma IA.
 
 ---
 
