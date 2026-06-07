@@ -1,5 +1,5 @@
 
-![Header](https://capsule-render.vercel.app/api?type=wave&color=auto&text=Blitz%20Expert&=twinkling)
+![Header](https://capsule-render.vercel.app/api?type=wave&color=8B0000&text=Blitz%20Expert&fontColor=FFFFFF)
 
 ---
 
